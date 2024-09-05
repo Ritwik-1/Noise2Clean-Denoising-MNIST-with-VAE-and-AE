@@ -1,0 +1,5 @@
+torch >=1.11
+matplotlib >=3.5
+scikit-learn >=0.1
+
+# use installation instructions from pytorch.org to install required torchvision package.
