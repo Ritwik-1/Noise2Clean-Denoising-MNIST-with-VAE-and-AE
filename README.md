@@ -49,7 +49,7 @@ The table below summarizes the SSIM scores for both models on the test dataset:
 
 | Metric              | Autoencoder (AE) | Variational Autoencoder (VAE) |
 |---------------------|------------------|-------------------------------|
-| **SSIM Score**      | 0.76             | 0.87                          |
+| **SSIM Score**      | 0.87             | 0.77                          |
 
 ## Hyperparameters
 
